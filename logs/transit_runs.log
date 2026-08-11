@@ -26,3 +26,27 @@
 2026-08-11 21:56:58,184 | INFO | Cleaned port_name whitespace and hashed container_id (SHA-256)
 2026-08-11 21:56:58,186 | INFO | Cleared existing output at data/analytics
 2026-08-11 21:56:58,262 | INFO | Wrote 73 clean rows to data/analytics, partitioned by shipping_line
+2026-08-11 22:10:44,630 | INFO | Starting extraction from shop_oltp_p2.db
+2026-08-11 22:10:44,636 | INFO | Extraction successful: 100 rows pulled
+2026-08-11 22:10:44,646 | INFO | Cleared existing output at quarantine
+2026-08-11 22:10:44,651 | INFO | Quarantined 27 rows -> quarantine\negative_durations.csv
+2026-08-11 22:10:44,651 | INFO | Clean rows remaining: 73
+2026-08-11 22:10:44,654 | INFO | Cleaned port_name whitespace and hashed container_id (SHA-256)
+2026-08-11 22:10:44,656 | INFO | Cleared existing output at data/analytics
+2026-08-11 22:10:44,677 | INFO | Wrote 73 clean rows to data/analytics, partitioned by shipping_line
+2026-08-11 22:13:48,262 | INFO | Starting extraction from shop_oltp_p2.db
+2026-08-11 22:13:48,267 | INFO | Extraction successful: 100 rows pulled
+2026-08-11 22:13:48,280 | INFO | Cleared existing output at quarantine
+2026-08-11 22:13:48,289 | INFO | Quarantined 27 rows -> quarantine\negative_durations.csv
+2026-08-11 22:13:48,289 | INFO | Clean rows remaining: 73
+2026-08-11 22:13:48,292 | INFO | Cleaned port_name whitespace and hashed container_id (SHA-256)
+2026-08-11 22:13:48,294 | INFO | Cleared existing output at data/analytics
+2026-08-11 22:13:48,315 | INFO | Wrote 73 clean rows to data/analytics, partitioned by shipping_line
+2026-08-11 22:15:37,564 | INFO | Starting extraction from shop_oltp_p2.db
+2026-08-11 22:15:37,568 | INFO | Extraction successful: 100 rows pulled
+2026-08-11 22:15:37,576 | INFO | Cleared existing output at quarantine
+2026-08-11 22:15:37,581 | INFO | Quarantined 27 rows -> quarantine\negative_durations.csv
+2026-08-11 22:15:37,581 | INFO | Clean rows remaining: 73
+2026-08-11 22:15:37,584 | INFO | Cleaned port_name whitespace and hashed container_id (SHA-256)
+2026-08-11 22:15:37,585 | INFO | Cleared existing output at data/analytics
+2026-08-11 22:15:37,606 | INFO | Wrote 73 clean rows to data/analytics, partitioned by shipping_line

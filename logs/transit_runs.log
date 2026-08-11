@@ -2,3 +2,19 @@
 2026-08-11 15:49:40,457 | INFO | Extraction successful: 100 rows pulled
 2026-08-11 15:51:54,476 | INFO | Starting extraction from shop_oltp_p2.db
 2026-08-11 15:51:54,480 | INFO | Extraction successful: 100 rows pulled
+2026-08-11 21:11:25,177 | INFO | Starting extraction from shop_oltp_p2.db
+2026-08-11 21:11:25,222 | INFO | Extraction successful: 100 rows pulled
+2026-08-11 21:11:25,310 | INFO | Cleared existing output at quarantine
+2026-08-11 21:11:25,362 | INFO | Quarantined 24 rows -> quarantine\negative_durations.csv
+2026-08-11 21:11:25,363 | INFO | Clean rows remaining: 76
+2026-08-11 21:11:25,390 | INFO | Cleaned port_name whitespace and hashed container_id (SHA-256)
+2026-08-11 21:11:25,398 | INFO | Cleared existing output at data/analytics
+2026-08-11 21:11:26,164 | INFO | Wrote 76 clean rows to data/analytics, partitioned by shipping_line
+2026-08-11 21:11:54,215 | INFO | Starting extraction from shop_oltp_p2.db
+2026-08-11 21:11:54,220 | INFO | Extraction successful: 100 rows pulled
+2026-08-11 21:11:54,229 | INFO | Cleared existing output at quarantine
+2026-08-11 21:11:54,234 | INFO | Quarantined 24 rows -> quarantine\negative_durations.csv
+2026-08-11 21:11:54,234 | INFO | Clean rows remaining: 76
+2026-08-11 21:11:54,237 | INFO | Cleaned port_name whitespace and hashed container_id (SHA-256)
+2026-08-11 21:11:54,239 | INFO | Cleared existing output at data/analytics
+2026-08-11 21:11:54,266 | INFO | Wrote 76 clean rows to data/analytics, partitioned by shipping_line

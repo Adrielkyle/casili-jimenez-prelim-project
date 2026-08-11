@@ -1,25 +1,28 @@
 order_id,container_id,shipping_line,port_name,transit_duration_hours,order_status,order_date,quarantine_reason
-2,CONT1002,MSC, Rotterdam,-142.58,ARRIVED,2026-09-25 10:00:00,negative_transit_duration
-12,,MSC,Los Angeles ,122.49,ARRIVED,2026-04-26 10:00:00,null_container_id
-23,CONT1023,COSCO, Manila ,-245.07,ARRIVED,2026-07-28 10:00:00,negative_transit_duration
-24,CONT1024,COSCO,Los Angeles ,-270.96,ARRIVED,2026-05-16 10:00:00,negative_transit_duration
-28,CONT1028,CMA CGM,Singapore,-218.07,ARRIVED,2026-08-19 10:00:00,negative_transit_duration
-31,,Hapag-Lloyd, Manila ,141.85,ARRIVED,2026-01-20 10:00:00,null_container_id
-37,CONT1037,COSCO,Shanghai  ,-85.21,ARRIVED,2026-09-17 10:00:00,negative_transit_duration
-40,CONT1040,CMA CGM, Manila ,-64.48,ARRIVED,2026-08-12 10:00:00,negative_transit_duration
-42,,COSCO,Shanghai  ,261.89,ARRIVED,2026-01-14 10:00:00,null_container_id
-44,,MSC, Manila ,100.14,ARRIVED,2026-06-22 10:00:00,null_container_id
-48,CONT1048,MSC, Rotterdam,-37.04,ARRIVED,2026-05-27 10:00:00,negative_transit_duration
-49,CONT1049,CMA CGM,Los Angeles ,-84.65,ARRIVED,2026-02-19 10:00:00,negative_transit_duration
-62,CONT1062,Maersk,Los Angeles ,-116.62,ARRIVED,2026-04-22 10:00:00,negative_transit_duration
-64,CONT1064,CMA CGM,Singapore,-80.57,ARRIVED,2026-07-14 10:00:00,negative_transit_duration
-66,,Hapag-Lloyd,Singapore,68.36,ARRIVED,2026-05-22 10:00:00,null_container_id
-67,CONT1067,MSC, Manila ,-64.53,ARRIVED,2026-06-13 10:00:00,negative_transit_duration
-70,CONT1070,Hapag-Lloyd, Rotterdam,-213.09,ARRIVED,2026-04-19 10:00:00,negative_transit_duration
-72,,Maersk,Singapore,-244.41,ARRIVED,2026-01-20 10:00:00,null_container_id;negative_transit_duration
-80,,COSCO, Rotterdam,128.96,ARRIVED,2026-04-10 10:00:00,null_container_id
-81,CONT1081,Maersk,Shanghai  ,-42.8,ARRIVED,2026-05-20 10:00:00,negative_transit_duration
-92,,Maersk,Singapore,247.7,ARRIVED,2026-02-23 10:00:00,null_container_id
-95,,MSC,Singapore,111.37,ARRIVED,2026-08-23 10:00:00,null_container_id
-96,CONT1096,Maersk,Singapore,-121.09,ARRIVED,2026-03-20 10:00:00,negative_transit_duration
-97,,CMA CGM,Singapore,39.69,ARRIVED,2026-01-28 10:00:00,null_container_id
+6,CONT1006,COSCO, Rotterdam,-259.09,ARRIVED,2026-09-28 10:00:00,negative_transit_duration
+12,,Hapag-Lloyd, Rotterdam,222.8,ARRIVED,2026-02-14 10:00:00,null_container_id
+20,,MSC, Manila ,221.09,ARRIVED,2026-04-13 10:00:00,null_container_id
+22,,COSCO, Manila ,252.61,ARRIVED,2026-04-13 10:00:00,null_container_id
+23,,Maersk,Los Angeles ,191.62,ARRIVED,2026-01-10 10:00:00,null_container_id
+24,CONT1024,Hapag-Lloyd,Shanghai  ,-279.5,ARRIVED,2026-06-12 10:00:00,negative_transit_duration
+27,CONT1027,COSCO,Shanghai  ,-5.45,ARRIVED,2026-05-23 10:00:00,negative_transit_duration
+28,CONT1028,COSCO,Los Angeles ,-283.78,ARRIVED,2026-05-18 10:00:00,negative_transit_duration
+30,CONT1030,Maersk, Manila ,-264.25,ARRIVED,2026-08-10 10:00:00,negative_transit_duration
+31,,COSCO,Singapore,123.33,ARRIVED,2026-07-11 10:00:00,null_container_id
+38,CONT1038,COSCO, Manila ,-122.45,ARRIVED,2026-01-26 10:00:00,negative_transit_duration
+40,CONT1040,Hapag-Lloyd, Manila ,-163.42,ARRIVED,2026-08-24 10:00:00,negative_transit_duration
+42,CONT1042,Maersk, Manila ,-77.3,ARRIVED,2026-07-18 10:00:00,negative_transit_duration
+46,CONT1046,COSCO, Rotterdam,-92.17,ARRIVED,2026-07-19 10:00:00,negative_transit_duration
+51,,Hapag-Lloyd,Los Angeles ,-85.59,ARRIVED,2026-09-24 10:00:00,null_container_id;negative_transit_duration
+52,CONT1052,Hapag-Lloyd, Manila ,-154.33,ARRIVED,2026-06-14 10:00:00,negative_transit_duration
+62,CONT1062,CMA CGM,Shanghai  ,-87.64,ARRIVED,2026-09-23 10:00:00,negative_transit_duration
+65,,COSCO,Los Angeles ,208.24,ARRIVED,2026-09-15 10:00:00,null_container_id
+68,CONT1068,MSC, Manila ,-218.84,ARRIVED,2026-02-10 10:00:00,negative_transit_duration
+71,,Maersk,Shanghai  ,233.8,ARRIVED,2026-09-16 10:00:00,null_container_id
+76,,Maersk,Shanghai  ,107.57,ARRIVED,2026-07-15 10:00:00,null_container_id
+89,,MSC,Shanghai  ,5.05,ARRIVED,2026-01-16 10:00:00,null_container_id
+91,,MSC, Manila ,110.5,ARRIVED,2026-09-12 10:00:00,null_container_id
+92,,Maersk,Los Angeles ,165.04,ARRIVED,2026-04-21 10:00:00,null_container_id
+93,CONT1093,CMA CGM, Rotterdam,-21.21,ARRIVED,2026-02-13 10:00:00,negative_transit_duration
+96,,Hapag-Lloyd, Rotterdam,35.23,ARRIVED,2026-07-18 10:00:00,null_container_id
+97,CONT1097,CMA CGM, Manila ,-221.32,ARRIVED,2026-05-17 10:00:00,negative_transit_duration

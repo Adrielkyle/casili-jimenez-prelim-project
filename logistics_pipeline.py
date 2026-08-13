@@ -116,4 +116,4 @@ if __name__ == "__main__":
     clean_df = clean_and_hash(clean_df)
     write_partitioned_parquet(clean_df)
 
-    print(f"\nFinal clean rows written to Parquet: {len(clean_df)}")
+    print(f"\nFinal clean rows written to Parquet: {len(clean_df)}") 
